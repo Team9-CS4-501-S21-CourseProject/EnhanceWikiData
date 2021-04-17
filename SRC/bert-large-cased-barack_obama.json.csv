@@ -1,0 +1,159 @@
+,h,t,r,c
+0,the summer,the idea,['raise'],0.07193832565099001
+1,the summer,a national convention,['raise'],0.04812492150813341
+2,the summer,the issue,['resolve'],0.029310036450624466
+3,the summer,the issue,['raise'],0.021634572185575962
+4,the summer,nomination,['raise'],0.045247492380440235
+5,the summer,nomination,['resolve'],0.041831426322460175
+6,the summer,the Congressional nominating caucus,['raise'],0.03937720973044634
+7,the summer,the Congressional nominating caucus,['resolve'],0.03803270868957043
+8,the summer,the devotees,['appeal'],0.03282903879880905
+9,the summer,Treasury Secretary William H. Crawford 's candidacy,['appeal'],0.03999084234237671
+10,the summer,the devotees,['raise'],0.024768398143351078
+11,the summer,Treasury Secretary William H. Crawford 's candidacy,['raise'],0.02990261185914278
+12,the summer,the devotees,['resolve'],0.022112061269581318
+13,the summer,Treasury Secretary William H. Crawford 's candidacy,['resolve'],0.02699699718505144
+14,"Richmond Junto "" leader Thomas Ritchie",a national convention,['raise'],0.04867286514490843
+15,"Richmond Junto "" leader Thomas Ritchie",the issue,['resolve'],0.02784707397222519
+16,"Richmond Junto "" leader Thomas Ritchie",the issue,['raise'],0.02218251582235098
+17,"Richmond Junto "" leader Thomas Ritchie",nomination,['raise'],0.04579543601721525
+18,"Richmond Junto "" leader Thomas Ritchie",nomination,['resolve'],0.0403684638440609
+19,"Richmond Junto "" leader Thomas Ritchie",the idea,['raise'],0.07248626928776503
+20,"Richmond Junto "" leader Thomas Ritchie",the Congressional nominating caucus,['resolve'],0.03656974621117115
+21,"Richmond Junto "" leader Thomas Ritchie",the Congressional nominating caucus,['raise'],0.039925153367221355
+22,"Richmond Junto "" leader Thomas Ritchie",the devotees,['raise'],0.025316341780126095
+23,"Richmond Junto "" leader Thomas Ritchie",the devotees,['resolve'],0.02064909879118204
+24,"Richmond Junto "" leader Thomas Ritchie",Treasury Secretary William H. Crawford 's candidacy,['appeal'],0.03706544358283281
+25,"Richmond Junto "" leader Thomas Ritchie",Treasury Secretary William H. Crawford 's candidacy,['resolve'],0.025534034706652164
+26,Virginia,the idea,['raise'],0.0989755243062973
+27,Virginia,a national convention,['raise'],0.0751621201634407
+28,"Richmond Junto "" leader Thomas Ritchie",the devotees,['appeal'],0.029903640039265156
+29,Virginia,the issue,['raise'],0.048671770840883255
+30,Virginia,nomination,['resolve'],0.0434811981394887
+31,Virginia,nomination,['raise'],0.07228469103574753
+32,Virginia,the issue,['resolve'],0.03095980826765299
+33,"Richmond Junto "" leader Thomas Ritchie",Treasury Secretary William H. Crawford 's candidacy,['raise'],0.030450555495917797
+34,Virginia,the devotees,['appeal'],0.034537313506007195
+35,Virginia,the devotees,['raise'],0.05180559679865837
+36,Virginia,the Congressional nominating caucus,['resolve'],0.03968248050659895
+37,Virginia,Treasury Secretary William H. Crawford 's candidacy,['appeal'],0.04169911704957485
+38,Virginia,Treasury Secretary William H. Crawford 's candidacy,['raise'],0.05693981051445007
+39,Virginia,Treasury Secretary William H. Crawford 's candidacy,['resolve'],0.028646769002079964
+40,Virginia,the Congressional nominating caucus,['raise'],0.06641440838575363
+41,the idea,the issue,['resolve'],0.035202210769057274
+42,the idea,nomination,['resolve'],0.04772360064089298
+43,the idea,the Congressional nominating caucus,['resolve'],0.043924883008003235
+44,the idea,the devotees,['appeal'],0.03245810233056545
+45,the idea,the devotees,['resolve'],0.028004235588014126
+46,Virginia,the devotees,['resolve'],0.02376183308660984
+47,the idea,Treasury Secretary William H. Crawford 's candidacy,['appeal'],0.03961990587413311
+48,the idea,Treasury Secretary William H. Crawford 's candidacy,['resolve'],0.03288917150348425
+49,a national convention,the issue,['resolve'],0.03918784484267235
+50,a national convention,the Congressional nominating caucus,['resolve'],0.04791051708161831
+51,a national convention,nomination,['resolve'],0.05170923471450806
+52,a national convention,the devotees,['appeal'],0.039486972615122795
+53,a national convention,the devotees,['resolve'],0.0319898696616292
+54,a national convention,Treasury Secretary William H. Crawford 's candidacy,['resolve'],0.03687480557709932
+55,the issue,the devotees,['appeal'],0.04155926778912544
+56,the issue,Treasury Secretary William H. Crawford 's candidacy,['appeal'],0.0487210713326931
+57,a national convention,Treasury Secretary William H. Crawford 's candidacy,['appeal'],0.04664877615869045
+58,nomination,Treasury Secretary William H. Crawford 's candidacy,['appeal'],0.049470849335193634
+59,the Congressional nominating caucus,the devotees,['appeal'],0.0415043979883194
+60,nomination,the devotees,['appeal'],0.04230904579162598
+61,the Congressional nominating caucus,Treasury Secretary William H. Crawford 's candidacy,['appeal'],0.048666201531887054
+62,that defeat,State,['former'],0.03822585567831993
+63,that defeat,State,['Secretary'],0.04330753907561302
+64,that defeat,the argument,['Secretary'],0.031113863922655582
+65,that defeat,the argument,['Martin'],0.024840334430336952
+66,that defeat,the argument,['Van'],0.02145630121231079
+67,that defeat,the argument,['Buren'],0.01932706218212843
+68,that defeat,""" Richmond Junto "" leader Thomas Ritchie",['former'],0.028466319665312767
+69,that defeat,""" Richmond Junto "" leader Thomas Ritchie",['Secretary'],0.026272245217114687
+70,that defeat,""" Richmond Junto "" leader Thomas Ritchie",['Martin'],0.021638737060129642
+71,that defeat,the argument,['former'],0.028323841281235218
+72,that defeat,""" Richmond Junto "" leader Thomas Ritchie",['privately'],0.022449912503361702
+73,that defeat,""" Richmond Junto "" leader Thomas Ritchie",['Van'],0.017286770045757294
+74,that defeat,""" Richmond Junto "" leader Thomas Ritchie",['Buren'],0.019267255440354347
+75,that defeat,Virginia,['Van'],0.040775422006845474
+76,that defeat,the argument,['privately'],0.024515782482922077
+77,that defeat,Virginia,['Secretary'],0.03285172954201698
+78,that defeat,Virginia,['former'],0.02786673605442047
+79,that defeat,Virginia,['Buren'],0.027108081616461277
+80,that defeat,Virginia,['privately'],0.024772987700998783
+81,that defeat,an exclusive national convention,['Van'],0.052352678030729294
+82,that defeat,an exclusive national convention,['Martin'],0.04515044763684273
+83,that defeat,an exclusive national convention,['former'],0.02909953985363245
+84,that defeat,an exclusive national convention,['Buren'],0.027965142391622066
+85,that defeat,an exclusive national convention,['privately'],0.02717440575361252
+86,that defeat,Republicans,['Secretary'],0.027318185195326805
+87,that defeat,Republicans,['former'],0.02828764822334051
+88,that defeat,an exclusive national convention,['Secretary'],0.037474097684025764
+89,that defeat,Virginia,['Martin'],0.027324868366122246
+90,that defeat,Republicans,['Martin'],0.021575422026216984
+91,that defeat,Republicans,['privately'],0.01984551828354597
+92,that defeat,Republicans,['Buren'],0.016261409036815166
+93,the election,State,['Secretary'],0.04570765607059002
+94,the election,State,['former'],0.03828748129308224
+95,the election,the argument,['Martin'],0.031070280820131302
+96,that defeat,Republicans,['Van'],0.015756587497889996
+97,the election,the argument,['former'],0.028385466895997524
+98,the election,the argument,['Buren'],0.02335093542933464
+99,the election,the argument,['privately'],0.026373240165412426
+100,the election,the argument,['Van'],0.021605541929602623
+101,the election,""" Richmond Junto "" leader Thomas Ritchie",['former'],0.028527945280075073
+102,the election,the argument,['Secretary'],0.03351398091763258
+103,the election,""" Richmond Junto "" leader Thomas Ritchie",['Martin'],0.027868683449923992
+104,the election,""" Richmond Junto "" leader Thomas Ritchie",['privately'],0.02430737018585205
+105,the election,""" Richmond Junto "" leader Thomas Ritchie",['Van'],0.017436010763049126
+106,the election,""" Richmond Junto "" leader Thomas Ritchie",['Secretary'],0.028672362212091684
+107,the election,Virginia,['Van'],0.040924662724137306
+108,the election,""" Richmond Junto "" leader Thomas Ritchie",['Buren'],0.02329112868756056
+109,the election,Virginia,['Martin'],0.033554814755916595
+110,the election,Virginia,['Buren'],0.031131954863667488
+111,the election,Virginia,['privately'],0.026630445383489132
+112,the election,an exclusive national convention,['Van'],0.052501918748021126
+113,the election,an exclusive national convention,['Martin'],0.05138039402663708
+114,the election,an exclusive national convention,['Secretary'],0.03987421467900276
+115,the election,an exclusive national convention,['Buren'],0.03198901563882828
+116,the election,Virginia,['former'],0.027928361669182777
+117,the election,an exclusive national convention,['former'],0.029161165468394756
+118,the election,an exclusive national convention,['privately'],0.029031863436102867
+119,the election,Virginia,['Secretary'],0.03525184653699398
+120,the election,Republicans,['Secretary'],0.029718302190303802
+121,the election,Republicans,['former'],0.028349273838102818
+122,the election,Republicans,['Martin'],0.027805368416011333
+123,the election,Republicans,['privately'],0.02170297596603632
+124,the election,Republicans,['Buren'],0.020285282284021378
+125,the election,Republicans,['Van'],0.015905828215181828
+126,State,the argument,['Van'],0.028498023748397827
+127,State,the argument,['Martin'],0.04466396011412144
+128,State,the argument,['Buren'],0.02467956952750683
+129,State,""" Richmond Junto "" leader Thomas Ritchie",['Martin'],0.04146236274391413
+130,State,""" Richmond Junto "" leader Thomas Ritchie",['privately'],0.026237132027745247
+131,State,""" Richmond Junto "" leader Thomas Ritchie",['Buren'],0.024619762785732746
+132,State,Virginia,['Van'],0.04781714454293251
+133,State,Virginia,['Martin'],0.04714849404990673
+134,State,""" Richmond Junto "" leader Thomas Ritchie",['Van'],0.02432849258184433
+135,State,Virginia,['Buren'],0.032460588961839676
+136,State,Virginia,['privately'],0.028560207225382328
+137,State,an exclusive national convention,['Martin'],0.06497407332062721
+138,State,the argument,['privately'],0.028303002007305622
+139,State,an exclusive national convention,['Buren'],0.033317649737000465
+140,State,an exclusive national convention,['privately'],0.030961625277996063
+141,State,Republicans,['Martin'],0.04139904771000147
+142,State,Republicans,['privately'],0.023632737807929516
+143,State,an exclusive national convention,['Van'],0.05939440056681633
+144,State,Republicans,['Van'],0.02279831003397703
+145,State,Republicans,['Buren'],0.021613916382193565
+146,an exclusive national convention,fruition,['come'],0.053431516513228416
+147,an exclusive national convention,legislatures presidential candidate,['come'],0.025353342294692993
+148,an exclusive national convention,legislatures,['come'],0.034572578966617584
+149,an exclusive national convention,incumbent President Andrew Jackson,['come'],0.026675119064748287
+150,an exclusive national convention,legislatures presidential candidate,['come'],0.025353342294692993
+151,an exclusive national convention,legislatures presidential candidate,['come'],0.025353342294692993
+152,Republicans,legislatures presidential candidate,['come'],0.028330981731414795
+153,Republicans,fruition,['come'],0.05640915594995022
+154,Republicans,legislatures,['come'],0.037550218403339386
+155,Republicans,incumbent President Andrew Jackson,['come'],0.02965275850147009
+156,Republicans,legislatures presidential candidate,['come'],0.028330981731414795
+157,Republicans,legislatures presidential candidate,['come'],0.028330981731414795
