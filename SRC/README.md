@@ -23,16 +23,16 @@ python extract.py examples/bob_dylan.txt bert-large-cased-bob_dynlan.jsonl --lan
 ## Map
 
 1. Entity linking
-   we had used Spacy Entity Linker
-   Manually db has to be downloaded
+   we had used Spacy Entity Linker,
+   for it db has to be downloaded
 
    wget "https://wikidatafiles.nyc3.digitaloceanspaces.com/Hosting/Hosting/SpacyEntityLinker/datafiles.tar.gz" -O /tmp/knowledge_base.tar.gz
    tar -xzf /tmp/knowledge_base.tar.gz --directory ./data_spacy_entity_linker
    rm /tmp/knowledge_base.tar.gz
 
-   if you get exception in map make sure path in anaconda3/lib/python3.8/site-packages/spacyEntityLinker/DatabaseConnection.py
-   DB_DEFAULT_PATH = '../../data_spacy_entity_linker/wikidb_filtered.db'
-   it should be as per data_spacy_entity_linker db 
+   if you get exception in map make sure path in anaconda3/lib/python3.8/site-packages/spacyEntityLinker/DatabaseConnection.py.
+   DB_DEFAULT_PATH = '../../data_spacy_entity_linker/wikidb_filtered.db'.
+   it should be as per data_spacy_entity_linker db .
 
 
 
