@@ -1,7 +1,6 @@
 # language-models-are-knowledge-graphs-pytorch
-Language models are open knowledge graphs ( work in progress )
+Language models are open knowledge graphs
 
-A non official reimplementation of [Language models are open knowledge graphs](https://arxiv.org/abs/2010.11967)
 
 The implemtation of Match is in process.py
 
